@@ -92,6 +92,9 @@ vendor.bluetooth.soc=pronto
 ro.qualcomm.cabl=2
 ro.vendor.display.cabl=2
 
+# Display
+ro.sf.lcd_density=380
+
 #
 # System props for telephony
 # System prop to turn on CdmaLTEPhone always
