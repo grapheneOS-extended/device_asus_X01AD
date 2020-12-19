@@ -94,21 +94,10 @@ void check_device()
     }
 }
 
-void property_override_dual(char const system_prop[], char const vendor_prop[],
-    char const value[])
-{
-    property_override(system_prop, value);
-    property_override(vendor_prop, value);
-}
-
 void vendor_load_properties()
 {
 
     check_device();
-
-    // fingerprint
-    property_override("ro.build.description", "msm8953_64-user 10 WW_Phone-202005071625 17.2018.2004.31-20200507 release-keys");
-    property_override_dual("ro.build.fingerprint", "ro.vendor.build.fingerprint", "google/sunfish/sunfish:11/RP1A.201105.002/6869500:user/release-keys");
 
     property_override("dalvik.vm.heapstartsize", heapstartsize);
     property_override("dalvik.vm.heapgrowthlimit", heapgrowthlimit);
