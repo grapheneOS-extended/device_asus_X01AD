@@ -109,3 +109,8 @@ debug.sf.phase_offset_threshold_for_next_vsync_ns=11600000
 
 # Shutdown time
 sys.vendor.shutdown.waittime=500
+
+# Zram-writeback
+ro.zram.mark_idle_delay_mins=60
+ro.zram.first_wb_delay_mins=180
+ro.zram.periodic_wb_delay_hours=24
