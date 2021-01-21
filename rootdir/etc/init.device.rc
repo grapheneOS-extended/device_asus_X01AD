@@ -61,10 +61,6 @@ on boot
     symlink /mnt/vendor/persist/dualcali_dump.bin /data/vendor/camera/dualcali_dump.bin
     chown system system /data/vendor/camera/dualcali_dump.bin
 
-    # Tap to wake node
-    chown system system /proc/ilitek/gesture
-    chmod 0660 /proc/ilitek/gesture
-
 on post-fs-data
     mkdir /data/vendor/focaltech 0760 system system
     restorecon /data/vendor/focaltech
