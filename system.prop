@@ -181,3 +181,5 @@ ro.cutoff_voltage_mv=3400
 
 # BPF
 ro.kernel.ebpf.supported=true
+
+persist.asus.led.on=1
