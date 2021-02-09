@@ -2,7 +2,7 @@
   {
     "repository":  "kernel_asus_X01AD",
     "target_path": "kernel/asus/X01AD",
-    "branch": "ten"
+    "branch": "eleven"
   },
   {
     "repository":  "vendor_asus_x01ad",
