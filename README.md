@@ -17,4 +17,4 @@ Display | 6.26 inches, 97.8 cm2 (~80.9% screen-to-body ratio)
 Rear Camera  | 13 MP, f/1.8, 1.12µm, PDAF
 Front Camera  |  8 MP, f/2.0, 1.12µm
 
-![Asus Zenfone Max M2](https://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-max-m2-zb633kl-r.jpg "Asus Zenfone Max M2")
+![Asus Zenfone Max M2](https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-m2-zb633kl-1.jpg)
